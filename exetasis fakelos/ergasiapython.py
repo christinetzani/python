@@ -1,6 +1,6 @@
 import random, hashlib
 
-am="21077"
+am="21050"
 
 tmp=hashlib.sha256(am.encode()).hexdigest()
 
